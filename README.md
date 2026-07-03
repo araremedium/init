@@ -1,3 +1,4 @@
+[![Proof HTML](https://github.com/araremedium/init/actions/workflows/proof-html.yml/badge.svg)](https://github.com/araremedium/init/actions/workflows/proof-html.yml)
 
 # Welcome to aRareMedium's init respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
